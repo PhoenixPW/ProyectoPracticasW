@@ -9,13 +9,16 @@ El presente repositorio contiene el codigo realizado de un proyecto que esta rea
 > # ⚛︎ React 
 > __Paquetes utilizados:__
 >
-> - pdfjsLib
-> - Axios
-> - Tailwind
-> - NextUI
+> - __pdfjsLib__ (Utilizada para la extraccion del contenido de los archivos PDF)
+> - __Axios__ (Utilizada para realizar las peticiones a la API)
+> - __Tailwind__ (Utilizada para los estilos de la interfaz de usuario)
+> - __NextUI__
 >
 >
 
 ## 2. Backend 
 
-### 🐍 Django
+> # 🐍 Django
+> __Librerias utilizadas:__
+> - __Django REST Framework__ (Utilizada para permitir que Django funcione como API) 
+>
