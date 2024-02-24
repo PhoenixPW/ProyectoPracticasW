@@ -1,8 +1,13 @@
-# React + Vite
+# Proyecto de calificaciones
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+El presente repositorio contiene el codigo realizado de un proyecto que esta realizando para automatizar algunas de las actividades que se realizan frecuentemente al impartir una materia dentro de la Facultad de Ciencias de la Computacion.
 
-Currently, two official plugins are available:
+## Tecnologias utilizadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Frontend
+
+### React + Vite
+
+## Backend
+
+### Django
