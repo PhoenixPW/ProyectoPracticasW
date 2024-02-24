@@ -4,10 +4,18 @@ El presente repositorio contiene el codigo realizado de un proyecto que esta rea
 
 ## Tecnologias utilizadas
 
-## Frontend
+## 1. Frontend
 
-### React + Vite
+> # ⚛︎ React 
+> __Paquetes utilizados:__
+>
+> - pdfjsLib
+> - Axios
+> - Tailwind
+> - NextUI
+>
+>
 
-## Backend
+## 2. Backend 
 
-### Django
+### 🐍 Django
